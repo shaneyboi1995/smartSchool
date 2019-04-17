@@ -1,0 +1,28 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "first notification title",
+      "body": "first notification body",
+      "read": false
+    },
+    {
+      "id": 2,
+      "title": "second notification title",
+      "body": "second notification body",
+      "read": true
+    },
+    {
+      "title": "third notification title",
+      "body": "third notification body",
+      "read": false,
+      "id": 8
+    },
+    {
+      "title": "forth notification title",
+      "body": "forth notification body",
+      "read": false,
+      "id": 9
+    }
+  ]
+}
